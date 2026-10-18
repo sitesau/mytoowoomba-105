@@ -1,0 +1,22 @@
+{
+  "wheel_id": 407,
+  "structure": "umbrella",
+  "slug": "mytoowoomba-105",
+  "project": "plumbers-toowoomba-planning-guide-8b5f4793c1d80e32f940c67c98c0a",
+  "parent_t1_ref": "mytoowoomba-152",
+  "node_role": "feeder",
+  "money_target": "mytoowoomba.com.au",
+  "primary_kw": "plumbers toowoomba planning guide",
+  "intended_url": "https://sitesau.github.io/mytoowoomba-105/",
+  "tier": "T2",
+  "writeback_nonce": "52898d1b29a2aa79",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/plumbers-toowoomba-budget-tips-2b9e2f31359368ce0c7f7bb9a5908/",
+      "anchor": "Plumbers Toowoomba Budget Tips: Budget Tips for Hiring",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
